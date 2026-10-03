@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DayWise Planner</string>
+    <string name="tab_today">Today</string>
+    <string name="tab_timeline">Timeline</string>
+    <string name="tab_matrix">Matrix</string>
+    <string name="tab_calendar_sync">Sync</string>
+    <string name="drag_hint">Hold and drag handles to reorder priority</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title">Task title</string>
+    <string name="task_notes">Notes / details</string>
+    <string name="priority">Priority</string>
+    <string name="category">Category</string>
+    <string name="time_block">Scheduled Time</string>
+    <string name="duration">Duration</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="sync_with_device">Sync with Device Calendar</string>
+    <string name="export_ics">Export iCalendar (.ics)</string>
+    <string name="import_ics">Import .ics File</string>
+</resources>

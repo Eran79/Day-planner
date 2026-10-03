@@ -1,0 +1,6 @@
+{
+  "name": "DayWise Planner",
+  "description": "Advanced day-wise planner app with drag-and-drop task prioritization and cross-platform calendar synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
